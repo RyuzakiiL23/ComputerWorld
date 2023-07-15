@@ -11,7 +11,7 @@
 
 .transition-fade {
     opacity: 1;
-    transition: 1000ms ease-out;
+    transition: 1000ms ease-out;
     transform: translateY(0);
     transform-origin: left;
 }
